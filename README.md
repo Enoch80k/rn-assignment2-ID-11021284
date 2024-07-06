@@ -5,3 +5,4 @@ Tasks3 Modify the font Weight property in the bold text style object.
 Tasks4 Modify the text inside the Text components to my name “Enoch”.
 
 ![image](https://github.com/Enoch80k/rn-assignment2-ID-11021284/assets/149580205/e0b9a2af-e1f0-4bac-a634-fb709f7dad50)
+StudentID 11021284
